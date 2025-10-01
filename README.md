@@ -64,19 +64,5 @@
   Responsive job board with secure auth, employer dashboards, and search/filter features.  
 
 ---
-/*
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pate1355&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pate1355&theme=radical" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pate1355&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>
-*/
-
----
 
 ⭐️ From [Rikin K Patel](https://github.com/pate1355)
