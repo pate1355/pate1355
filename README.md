@@ -64,7 +64,7 @@
   Responsive job board with secure auth, employer dashboards, and search/filter features.  
 
 ---
-
+/*
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
@@ -75,6 +75,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pate1355&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
+*/
 
 ---
 
