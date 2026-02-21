@@ -8,7 +8,7 @@
 
 📫 Reach me at: **rikinpatel17902@gmail.com**  
 💼 LinkedIn: [Rikin Patel](https://www.linkedin.com/in/pate1355/)  
-💻 Portfolio: [yellow-sapphire-six.vercel.app](https://yellow-sapphire-six.vercel.app/)  
+💻 Portfolio: [https://personal-portfolio-rikin1918s-projects.vercel.app/)  
 
 ---
 
